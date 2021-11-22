@@ -32,6 +32,11 @@ footer {
     padding: 15px;
 }
 
+a{
+	text-decoration:none;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: white;
+}
 /*
 //--botoes--//
 */
